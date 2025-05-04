@@ -1,2 +1,2 @@
-# CCE-2310CompetitiveProgramming-
+random
 task
